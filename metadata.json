@@ -1,0 +1,5 @@
+{
+  "name": "Caro Bom Hẹn Giờ",
+  "description": "Một trò chơi caro 15x15 chiến thuật cho hai người chơi, với một thay đổi bùng nổ: các quân cờ có thể biến thành bom hẹn giờ, phá hủy các ô xung quanh và làm gián đoạn các chiến lược.",
+  "requestFramePermissions": []
+}
